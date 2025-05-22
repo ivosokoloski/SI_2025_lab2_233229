@@ -4,7 +4,8 @@
 
 ## Control Flow Graph
 
-![CFG_233229 drawio](https://github.com/user-attachments/assets/9d8d727b-88b6-430f-9121-04264224d08c)
+![233229CFG drawio](https://github.com/user-attachments/assets/86728058-460e-46f6-a431-72c5ee18bb64)
+
 
 
 ## Цикломатска комплексност
